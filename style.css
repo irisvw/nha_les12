@@ -20,6 +20,10 @@ footer {
     text-align: center;
 }
 
+table {
+    border-collapse: collapse;
+}
+
 div {
     margin: 5rem;
 }
